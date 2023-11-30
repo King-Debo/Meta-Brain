@@ -20,4 +20,4 @@ To install Meta-Brain, you need to have Python 3.8 or higher and pip installed o
 - transformers
 - scipy
 - sklearn
-- pretty_midi# Meta-Brain
+- pretty_midi
